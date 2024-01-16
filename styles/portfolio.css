@@ -38,3 +38,13 @@ h2 {
     line-height: 2;
     font-size: 16px;
  }
+
+ .btn-branding {
+    background: #6c63ff;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 12px 20px;
+
+ }
