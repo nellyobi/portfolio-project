@@ -44,26 +44,29 @@ h2 {
 .hero {
     background: var(--secondary-color);
     text-align: center;
+    padding: 160px 20px;
 }
 
 .hero p {
     font-weight: bold;
-    font-size: 18px;
+    font-size: 36px;
     margin: 0;
+    color: #272142;
 }
+
  .hero h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--heading-font-family);
     font-weight: normal;
     line-height: 2;
     font-size: 16px;
  }
 
  .btn-branding {
-    background: #6c63ff;
+    background: var(--branding-color);
     border-radius: 4px;
     color: white;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 27px;
-    padding: 12px 20px;
+    padding: 15px 30px;
 
  }
