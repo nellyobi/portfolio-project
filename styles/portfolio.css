@@ -122,4 +122,11 @@ h2 {
         line-height: 27px;
         padding: 10px 25px;
      }
+     .hero h2 {
+        font-family: var(--heading-font-family);
+        font-weight: normal;
+        line-height: 2;
+        font-size: 14px;
+     }
+     
  }
