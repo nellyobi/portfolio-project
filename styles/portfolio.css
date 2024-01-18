@@ -3,8 +3,8 @@
 :root {
     --branding-color: #6c63ff;
     --secondary-color: #f9f7fe;
-    --heading-font-family: "Roboto" sans-serif; 
-    --default-font-family: "Monserrat" sans-serif;
+    --heading-font-family: "Roboto", sans-serif; 
+    --default-font-family: "Monserrat", sans-serif;
 }
 
 body {
