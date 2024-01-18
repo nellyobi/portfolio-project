@@ -63,6 +63,16 @@ h2 {
     line-height: 2;
     font-size: 16px;
  }
+ .about-section h1 {
+    font-size: 64px;
+    line-height: 80px;
+ }
+
+ .about-section h2 {
+    font-size: 18px;
+    font-family: var(--default-font-family);
+    
+ }
 
  .btn-branding {
     background: var(--branding-color);
