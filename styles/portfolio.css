@@ -53,6 +53,7 @@ h2 {
     font-weight: bold;
     font-size: 36px;
     margin: 0;
+    line-height: 1.5;
     color: #272142;
 }
 
@@ -87,7 +88,8 @@ h2 {
  }
  @media (max-width: 900px){
     h1 {
-        font-size: 60px;
+        font-size: 50px;
+        line-height: 2;
     }
     h2{
         font-size: 44px;
@@ -95,5 +97,8 @@ h2 {
     .project-description {
         padding: 0;
         text-align: center;
+    }
+    .hero {
+        padding: 80px 20px;
     }
  }
