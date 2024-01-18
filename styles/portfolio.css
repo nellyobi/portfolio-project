@@ -125,7 +125,7 @@ h2 {
      .hero h2 {
         font-family: var(--heading-font-family);
         font-weight: normal;
-        line-height: 2;
+        line-height: 1.5;
         font-size: 14px;
      }
      
