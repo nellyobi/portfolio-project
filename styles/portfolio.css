@@ -80,6 +80,16 @@ h2 {
     
  }
 
+ .work-section h1 {
+    font-size: 50px;
+    line-height: 80px;
+ }
+
+ .work-section h3 {
+    font-size: 14px;
+    line-height: 80px;
+ }
+
 
  .btn-branding {
     background: var(--branding-color);
