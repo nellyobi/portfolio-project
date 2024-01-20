@@ -142,8 +142,9 @@ h2 {
  }
 
  .nav li {
-    display:inline;
-    
+    display: inline;
+    list-style: none;
+    line-height: 42px;
  }
 
  @media (max-width: 900px){
