@@ -101,7 +101,10 @@ h2 {
     font-family: var(--default-font-family);
  }
 
-
+ .contact-container .btn-branding {
+    text-align: center;
+ }
+ 
  .btn-branding {
     background: var(--branding-color);
     font-family: var(--default-font-family);
