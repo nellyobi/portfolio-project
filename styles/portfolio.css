@@ -159,6 +159,14 @@ h2 {
     color: var(--branding-color);
  }
 
+ footer .email-link {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+
+ }
+
  
 
  @media (max-width: 900px){
