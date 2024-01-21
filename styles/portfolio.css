@@ -145,17 +145,18 @@ h2 {
     display: inline;
     list-style: none;
     line-height: 42px;
-    
-    
  }
+
+
+
  nav a {
-    
     text-decoration: none;
     color: #272142;
     transition: all 100ms ease-in-out;
  }
 
- nav a:hover {
+ nav a:hover,
+ nav li.active a {
     color: var(--branding-color);
  }
 
