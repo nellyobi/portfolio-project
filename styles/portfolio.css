@@ -132,6 +132,10 @@ h2 {
     max-height: 40px;
  }
 
+ nav {
+    padding: 20px 0;
+ }
+
  nav ul {
     margin: 0;
     padding: 0;
