@@ -158,7 +158,9 @@ h2 {
  nav li.active a {
     color: var(--branding-color);
  }
-
+ footer {
+    margin: 60px 0;
+}
  footer .email-link {
     text-decoration: none;
     color: black;
@@ -168,6 +170,20 @@ h2 {
  }
  footer .email-link:hover {
     color: var(--branding-color);
+ }
+
+ footer .social-links a {
+    margin: 0 20px;
+    color: var(--branding-color);
+    background: var(--secondary-color);
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 18px;
+    transition: all 150ms ease-in-out;
+ }
+ footer .social-links a:hover {
+    color: white;
+    background-color: var(--branding-color);
  }
 
  
