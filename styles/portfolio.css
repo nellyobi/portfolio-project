@@ -166,6 +166,9 @@ h2 {
     text-align: center;
 
  }
+ footer .email-link:hover {
+    color: var(--branding-color);
+ }
 
  
 
