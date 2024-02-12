@@ -1,4 +1,4 @@
-new Typewriter('h1', {
+new Typewriter("h1", {
     strings: ['NELLY OBIJIAKU'],
     autoStart: true,
   });
